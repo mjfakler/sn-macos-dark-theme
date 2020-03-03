@@ -13,13 +13,13 @@
   --sn-stylekit-background-color: #3a3a3c;
   --sn-stylekit-foreground-color: #FAFBFF;
   --sn-stylekit-border-color: #2c2c2e;
-  --sn-stylekit-contrast-background-color: #3a3a3c;
+  --sn-stylekit-contrast-background-color: #48484a;
   --sn-stylekit-contrast-foreground-color: #FAFBFF;
   --sn-stylekit-contrast-border-color: #2A2A2B;
   --sn-stylekit-secondary-background-color: #48484a;
   --sn-stylekit-secondary-foreground-color: #FAFBFF;
   --sn-stylekit-secondary-border-color: #2A2A2B;
-  --sn-stylekit-secondary-contrast-background-color: #323234;
+  --sn-stylekit-secondary-contrast-background-color: #3a3a3c;
   --sn-stylekit-secondary-contrast-foreground-color: #FAFBFF;
   --sn-stylekit--secondary-contrast-border-color: #2A2A2B;
   --sn-stylekit-editor-background-color: var(--sn-stylekit-background-color);
