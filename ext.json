@@ -3,10 +3,10 @@
   "name": "macOS Dark Theme",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "macOS Dark Mode theme for Standard Notes.",
-  "url": "https://cdn.jsdelivr.net/gh/mjfakler/sn-macos-dark-theme@1.0.0/dist/dist.css",
-  "download_url": "https://github.com/mjfakler/sn-macos-dark-theme/archive/1.0.0.zip",
+  "url": "https://cdn.jsdelivr.net/gh/mjfakler/sn-macos-dark-theme@1.0.1/dist/dist.css",
+  "download_url": "https://github.com/mjfakler/sn-macos-dark-theme/archive/1.0.1.zip",
   "latest_url": "https://listed.to/p/5Cs1xPMVW6",
   "marketing_url": "https://github.com/mjfakler/sn-macos-dark-theme"
 }
